@@ -1,0 +1,37 @@
+.spell {
+  border: 2px dotted black;
+  position: absolute;
+  left: 115%;
+  top: -70%;
+  transition-property: all;
+  transition-duration: .5s;
+  z-index: 1;
+}
+.spellBody {
+  background: radial-gradient(white, cyan);
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  opacity: 0%;
+}
+.spellEnergize {
+  opacity: 100%;
+}
+.spellCast {
+  transition-duration: 4s;
+  transform: translateX(150vw);
+}
+.spellExplosion {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  position: absolute;
+  transition-property: all;
+  transition-duration: .25s;
+  border: 2px solid black;
+  background: radial-gradient(yellow, red);
+  opacity: 0%;
+}
+.spellBurn {
+  opacity: 100%;
+}

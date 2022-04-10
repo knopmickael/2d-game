@@ -1,0 +1,8 @@
+.mobBody {
+  background: linear-gradient(180deg, red, darkred);
+  border: 2px solid black;
+  border-radius: 4em 3em 2.5em 2em;
+  width: 125px;
+  height: 125px;
+  position: relative;
+}

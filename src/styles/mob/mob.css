@@ -1,0 +1,8 @@
+.mob {
+  border: 2px dotted black;
+  position: absolute;
+  bottom: 20%;
+  right: 10%;
+  transition-property: all;
+  transition-duration: 2s;
+}

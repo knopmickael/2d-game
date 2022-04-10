@@ -1,0 +1,9 @@
+.gameBox {
+  background: linear-gradient(180deg, aqua, rgb(0, 140, 255));
+  border: .25em solid black;
+  width: 90%;
+  height: 70%;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}

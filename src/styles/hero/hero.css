@@ -1,0 +1,7 @@
+.hero {
+  border: 2px dotted black;
+  position: absolute;
+  bottom: 10%;
+  transition-property: all;
+  transition-duration: .075s;
+}

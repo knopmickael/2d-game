@@ -1,0 +1,19 @@
+.mobLifebar {
+  background: rgba(0, 0, 0, .2);
+  position: absolute;
+  width: 100px;
+  height: 35px;
+  right: 5%;
+  top: 5%;
+  transform: scaleX(-1);
+}
+.mobLife {
+  height: 100%;
+  background-color: green;
+}
+.cautionLife {
+  background-color: yellow;
+}
+.dangerousLife {
+  background-color: red;
+}
